@@ -1,0 +1,17 @@
+{
+  "school": {
+    "name": "Oakland City University",
+    "departments": [
+      {
+        "name": "Computer Science",
+        "head": "Dr. Smith",
+        "students": 45
+      },
+      {
+        "name": "Mathematics",
+        "head": "Dr. Johnson",
+        "students": 32
+      }
+    ]
+  }
+}
