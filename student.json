@@ -1,0 +1,13 @@
+
+{
+  "id": 101,
+  "name": "Zach Wilson",
+  "email": "zwilson@oak.edu",
+  "major": "Computer science",
+  "gpa": 3.96,
+  "courses": [
+    "Computing I",
+    "Computing II",
+    "Web Development"
+  ]
+}
